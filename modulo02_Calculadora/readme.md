@@ -1,2 +1,1 @@
-![Alt text](modulo02_Calculadora/assets/img/img_git)
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![foto-calc](https://user-images.githubusercontent.com/49838170/151676375-62fda8bf-a29c-491c-961d-716ffc58d36a.jpg)
