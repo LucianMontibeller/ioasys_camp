@@ -3,8 +3,8 @@ const utils = require('./utils.js');
 
 
 const usuario = {
-	nome: 'lucian',
-	email:'luciandeborah@gmail.com',
+	nome: '',
+	email:'',
 	idade: 18,
 	senha: 'hadouken',
 	confsenha: 'hadouken',
